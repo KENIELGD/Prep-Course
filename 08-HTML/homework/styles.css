@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://images.pexels.com/photos/1174114/pexels-photo-1174114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+}
+
+h1, h3, h4{
+    color: brown;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+div{
+    margin: 0 auto;
+}
+
+#thirdDiv{
+    width: 500px;
+    /* height: 600px; */
+    height: 900px;
+    background-color: #fff;
+    padding: 50px;
+    border: .5rem solid chocolate;
+}
+
+#spanId, a{
+    display: block;
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}
